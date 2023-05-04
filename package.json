@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://pushpakninave.github.io/word-generator",
   "scripts": {
     "dev": "parcel public/index.html",
     "build":"parcel build public/index.html"
